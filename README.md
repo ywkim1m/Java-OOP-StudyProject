@@ -34,13 +34,13 @@ Eclipse 환경에서 개발하였으며, 클래스 간 역할 분리와 OOP 설�
 
 ## 실행 화면
 <p align="center">
-  <img src="screenshots/screenshot1.png" width="350"/>
-  <img src="screenshots/screenshot2.png" width="350"/>
+  <img src="screenshot/screenshot1.png" width="350"/>
+  <img src="screenshot/screenshot2.png" width="350"/>
 </p>
 
 <p align="center">
-  <img src="screenshots/screenshot3.png" width="350"/>
-  <img src="screenshots/screenshot4.png" width="350"/>
+  <img src="screenshot/screenshot3.png" width="350"/>
+  <img src="screenshot/screenshot4.png" width="350"/>
 </p>
 
 ---
